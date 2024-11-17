@@ -1,8 +1,8 @@
 ## Hi there 👋, My Name is Robiul Islam
 #### I am Frontend Developer
-![I am Frontend Developer](https://media.licdn.com/dms/image/v2/D5616AQFP1oqetTZbdQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731770581999?e=1736985600&v=beta&t=RsIxO4U-NQJQXa8GbD0q7aXKY1Z99qXOLDuPZM6tzxY)
+![I am Frontend Developer](https://media.licdn.com/dms/image/v2/D5616AQE_fgD40M-UrA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731835988951?e=1737590400&v=beta&t=CfaSSivfhiAgeWZ_IxBwOLzZe2Jub8qszexg0nF0wjA)
 
-I'm Robiul Islam from Japan, and I am a Frontend Developer. I am constantly learning languages and frameworks such as React and React Native, along with other frontend technologies. I also enjoy wireframing, UI/UX design, and design in general. Feel free to check out my LinkedIn profile . [ https://www.linkedin.com/in/amrobiulislam/ ]
+I'm Robiul Islam form Japan, and i am Frontend Developer. I really learning language and frameworks like React and React Native, as well in Frontend.I also enjoy wireframing, ui, ux and design in general. You can check out my linkedin . [ https://www.linkedin.com/in/amrobiulislam/ ]
 
 Skills: HTML/CSS/REACT / JS / JAVA / MongoDB
 
@@ -27,28 +27,30 @@ Skills: HTML/CSS/REACT / JS / JAVA / MongoDB
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=robiulislam8726)  
 
 
+
+
 ------***----------
 ポートフォリオ--
 --------------------------
-1-- デザイ
+1-- デザイン
 Live Website -  https://courageous-liger-f98cd7.netlify.app/  
 Source Code -  https://github.com/robiulislam8726/updatenews  
 pdf Design - https://shorturl.at/g4g6R  
 --------------------------
 --------------------------
-2-- デザイ
+2-- デザイン
 Live Website -  https://robiulislam8726.github.io/bike-shop/  
 Source Code - https://github.com/robiulislam8726/bike-shop  
 pdf Design- https://shorturl.at/xTaZ4  
 --------------------------
 --------------------------
-3-- デザイ
+3-- デザイン
 Live Website -  https://robiulislam8726.github.io/architect-site/   
 Source Code - https://github.com/robiulislam8726/architect-site   
 pdf Design- https://shorturl.at/d87Ju  
 --------------------------
 
-4-- デザイ
+4-- デザイン
 Live Website -  https://robiulislam8726.github.io/internet-service/  
 Source Code - https://github.com/robiulislam8726/internet-service  
 

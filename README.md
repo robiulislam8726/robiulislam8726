@@ -2,9 +2,8 @@
 #### I am Frontend Developer
 ![I am Frontend Developer](https://media.licdn.com/dms/image/v2/D5616AQE_fgD40M-UrA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731835988951?e=1737590400&v=beta&t=CfaSSivfhiAgeWZ_IxBwOLzZe2Jub8qszexg0nF0wjA)
 
-I'm Robiul Islam form Japan, and i am Frontend Developer. I really learning language and frameworks like React and React Native, as well in Frontend.I also enjoy wireframing, ui, ux and design in general. You can check out my linkedin . [ https://www.linkedin.com/in/amrobiulislam/ ]
-
-Skills: HTML/CSS/REACT / JS / JAVA / MongoDB
+I'm Robiul Islam form Japan, and i am Frontend Developer. I really learning language and frameworks like React and React Native, as well in Frontend.I also enjoy wireframing, ui, ux and design in general. 
+Skills: HTML/CSS/REACT / JavaScript / JAVA / MongoDB
 
 - 🔭 I’m currently working on In Frontend Developer 
 - 🌱 I’m currently learning JAVA 

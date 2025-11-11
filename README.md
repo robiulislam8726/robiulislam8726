@@ -1,12 +1,12 @@
 ## Hi there 👋, My Name is Robiul Islam
-#### I am Frontend Developer
+#### I am full stack developer
 ![I am Frontend Developer](https://media.licdn.com/dms/image/v2/D5616AQE_fgD40M-UrA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731835988951?e=1737590400&v=beta&t=CfaSSivfhiAgeWZ_IxBwOLzZe2Jub8qszexg0nF0wjA)
 
 I'm Robiul Islam form Japan, and i am Frontend Developer. I really learning language and frameworks like React and React Native, as well in Frontend.I also enjoy wireframing, ui, ux and design in general. 
 
-Skills: HTML/CSS/REACT / JavaScript / JAVA / MongoDB
+Skills: HTML/TailwindCSS/REACT / JavaScript / TypeScript/MySql
 
-- 🔭 I’m currently working on In Frontend Developer 
+- 🔭 I’m currently working on In full stack developer 
 - 🌱 I’m currently learning JAVA 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
@@ -28,30 +28,7 @@ Skills: HTML/CSS/REACT / JavaScript / JAVA / MongoDB
 
 
 
-
-------***----------
-ポートフォリオ--
---------------------------
-1-- デザイン
-Live Website -  https://courageous-liger-f98cd7.netlify.app/  
-Source Code -  https://github.com/robiulislam8726/updatenews  
-pdf Design - https://shorturl.at/g4g6R  
---------------------------
---------------------------
-2-- デザイン
-Live Website -  https://robiulislam8726.github.io/bike-shop/  
-Source Code - https://github.com/robiulislam8726/bike-shop  
-pdf Design- https://shorturl.at/xTaZ4  
---------------------------
---------------------------
-3-- デザイン
-Live Website -  https://robiulislam8726.github.io/architect-site/   
-Source Code - https://github.com/robiulislam8726/architect-site   
-pdf Design- https://shorturl.at/d87Ju  
---------------------------
-
-4-- デザイン
-Live Website -  https://robiulislam8726.github.io/internet-service/  
-Source Code - https://github.com/robiulislam8726/internet-service  
+My Portfolio Website :--
+Link : 
 
 
